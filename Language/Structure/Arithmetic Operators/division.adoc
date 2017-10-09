@@ -70,14 +70,20 @@ int c = 0;
 c = a / b; // the variable 'c' stores a value of 8 only as opposed to the expected result of 8.409
 ----
 [%hardbreaks]
+--
+// HOW TO USE SECTION ENDS
+
+
+
+
+// SEE ALSO SECTION
+[#see_also]
+--
 
 [float]
 === See also
 
 [role="language"]
-* #LANGUAGE# link:../addition[addition]
-* #LANGUAGE# link:../subtraction[subtraction]
-* #LANGUAGE# link:../multiplication[multiplication]
 
 --
-// HOW TO USE SECTION ENDS
+// SEE ALSO SECTION ENDS
