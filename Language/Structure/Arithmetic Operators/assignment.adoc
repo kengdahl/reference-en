@@ -51,6 +51,14 @@ sensVal = analogRead(0);  // store the (digitized) input voltage at analog pin 0
 2. Don't confuse the assignment operator [ = ] (single equal sign) with the comparison operator [ == ] (double equal signs), which evaluates whether two expressions are equal.
 [%hardbreaks]
 
+--
+// HOW TO USE SECTION ENDS
+
+
+
+// SEE ALSO SECTION STARTS
+#see_also
+
 [float]
 === See also
 
@@ -59,6 +67,5 @@ sensVal = analogRead(0);  // store the (digitized) input voltage at analog pin 0
 * #LANGUAGE#  link:../../../variables/data-types/char[char]
 * #LANGUAGE#  link:../../../variables/data-types/int[int]
 * #LANGUAGE#  link:../../../variables/data-types/long[long]
-
 --
-// HOW TO USE SECTION ENDS
+// SEE ALSO SECTION STARTS
