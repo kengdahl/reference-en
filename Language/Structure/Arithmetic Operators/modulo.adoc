@@ -80,10 +80,19 @@ void loop()
 The modulo operator does not work on floats.
 [%hardbreaks]
 
+--
+// HOW TO USE SECTION ENDS
+
+
+
+// SEE ALSO SECTION STARTS
+[#SEE_ALSO]
+--
+
 [float]
 === See also
 
 [role="language"]
-* #LANGUAGE# link:../division[Division]
+
 --
-// HOW TO USE SECTION ENDS
+// SEE ALSO SECTION ENDS
