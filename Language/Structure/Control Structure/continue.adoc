@@ -49,11 +49,19 @@ for (x = 0; x <= 255; x ++)
 ----
 [%hardbreaks]
 
+--
+// HOW TO USE SECTION ENDS
+
+
+
+
+// SEE ALSO SECTION BEGINS
+[#see_also]
+--
 
 [float]
 === See also
 [role="language"]
-* #LANGUAGE#	link:../break[break]
 
 --
 // HOW TO USE SECTION ENDS
